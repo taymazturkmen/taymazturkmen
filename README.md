@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://c.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif" alt="a walking duck" width="320" /> 
+<img align="left" src="https://c.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif" alt="pikachu waving" width="320" /> 
 
 
 ```csharp
