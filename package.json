@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnOrdinaryUsername/AnOrdinaryUsername.git"
+    "url": "git+https://github.com/taymazturkmen/taymazturkmen.git"
   },
   "author": "AnOrdinaryUsername",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AnOrdinaryUsername/AnOrdinaryUsername/issues"
+    "url": "https://github.com/taymazturkmen/taymazturkmen/issues"
   },
-  "homepage": "https://github.com/AnOrdinaryUsername/AnOrdinaryUsername#readme",
+  "homepage": "https://github.com/taymazturkmen/taymazturkmen#readme",
   "dependencies": {
     "@octokit/rest": "^18.5.5",
     "dotenv": "^10.0.0",
