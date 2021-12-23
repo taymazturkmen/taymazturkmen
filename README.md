@@ -2,7 +2,8 @@
 > neofetch
 ```
 
-<iframe src="https://giphy.com/embed/AFdcYElkoNAUE" width="480" height="272" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cute-pokemon-AFdcYElkoNAUE">via GIPHY</a></p> 
+<img align="left" src="https://i.gifer.com/XOsX.gif" alt="a walking duck" width="320" /> 
+
 
 ```csharp
 taymazturkmen@github
