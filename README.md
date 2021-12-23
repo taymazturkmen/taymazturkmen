@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://tenor.com/view/pikachu-pokemon-hi-gif-21630277" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<iframe src="https://giphy.com/embed/AFdcYElkoNAUE" width="480" height="272" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cute-pokemon-AFdcYElkoNAUE">via GIPHY</a></p> 
 
 ```csharp
 taymazturkmen@github
