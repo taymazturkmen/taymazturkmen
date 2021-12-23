@@ -1,5 +1,5 @@
 {
-  "name": "anordinaryusername",
+  "name": "taymazturkmen",
   "version": "1.0.0",
   "description": "A profile README that kind of looks like a neofetch",
   "main": "index.js",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/taymazturkmen/taymazturkmen.git"
   },
-  "author": "AnOrdinaryUsername",
+  "author": "taymazturkmen",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/taymazturkmen/taymazturkmen/issues"
