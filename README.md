@@ -15,7 +15,7 @@ Languages: Java, Python,
            HTML, CSS
 Learning: Node.js, PostgreSQL,
           C, CPP
-Hobbies: Blockchain Systems, Cooking, Gaming
+Hobbies: Blockchain, Cooking, Gaming
 Discord: Taymaz#1006
 ```
 <p align="left">
