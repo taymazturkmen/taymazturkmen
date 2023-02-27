@@ -18,7 +18,7 @@ Learning: Node.js, PostgreSQL,
 Hobbies: Cybersecurity, Cooking, Gaming, Music
 Commits: 69
 Stars: 1
-Discord: Taymaz#1002
+Discord: T_T#5681
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
