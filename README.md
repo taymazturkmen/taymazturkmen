@@ -16,9 +16,9 @@ Languages: Java, Python,
 Learning: Node.js, PostgreSQL,
           C, CPP
 Hobbies: Cybersecurity, Cooking, Gaming, Music
-Commits: 69
+Commits: 9
 Stars: 1
-Discord: T_T#5681
+Discord: Taymaz#1002
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
